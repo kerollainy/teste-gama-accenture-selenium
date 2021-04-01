@@ -4,14 +4,16 @@
 ## Descrição do teste
 ### O projeto consiste em preencher os formularios do site da Sampleapp e enviar, validando todas as ações.
 
-Cenário: Verificar a mensagem final depois que preencher o formulario.
-Dado que entro no site
-E preencho o formulario da aba Enter Vehicle Data e clico em next
-E preencho o formulario da aba Enter Insurant Data e clicar em next
-E preencho o formulario da aba Enter Product Data e clicar em next
-E preencho o formulario da aba Select Price Option e clicar em next
-E preencho o formulario da aba Send Quote e clicar em next
-Entao devo ver a mensagem "Sending e-mail success!"
+<b>A pasta --- deve ser apagada depois da importação pois não foi testada corretamente. Agradeço a compreensão<b>
+
+Cenário: Verificar a mensagem final depois que preencher o formulario.<br>
+Dado que entro no site<br>
+E preencho o formulario da aba Enter Vehicle Data e clico em next<br>
+E preencho o formulario da aba Enter Insurant Data e clicar em next<br>
+E preencho o formulario da aba Enter Product Data e clicar em next<br>
+E preencho o formulario da aba Select Price Option e clicar em next<br>
+E preencho o formulario da aba Send Quote e clicar em next<br>
+Entao devo ver a mensagem "Sending e-mail success!"<br>
 
 ### Tecnologias utilizadas no projeto
 <b>Java:<b> Linguagem de programação para desenvolvimento da aplicação.<br>
