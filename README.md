@@ -2,9 +2,9 @@
 
 
 ## Descrição do teste
-### O projeto consiste em preencher os formularios do site da Sampleapp e enviar, validando todas as ações.
+### O projeto consiste em preencher os formularios do site da Sampleapp e enviar, validando todas as ações.<br>
 
-<b>A pasta --- deve ser apagada depois da importação pois não foi testada corretamente. Agradeço a compreensão<b>
+<b>A pasta "sampleAppTricentis-master 2" deve ser apagada depois da importação pois não foi testada corretamente. Agradeço a compreensão<b>
 
 Cenário: Verificar a mensagem final depois que preencher o formulario.<br>
 Dado que entro no site<br>
